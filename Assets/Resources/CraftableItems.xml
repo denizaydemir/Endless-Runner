@@ -1,0 +1,116 @@
+﻿ <CraftableItems>
+ 	<CraftableItem>
+        <Id> 0 </Id>
+        <Name>Black Berry</Name>
+        <Price> 60 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> true </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+ 
+	<CraftableItem>
+        <Id> 3 </Id>
+        <Name>Golden Wood</Name>
+        <Price> 100 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> true </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+ 
+	<CraftableItem>
+        <Id> 5 </Id>
+        <Name>Curse Book</Name>
+        <Price> 60 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> false </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+	
+	
+	<CraftableItem>
+        <Id> 7 </Id>
+        <Name>Soul Cloak</Name>
+        <Price> 100 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> true </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+ 
+ 
+ 	<CraftableItem>
+        <Id> 9 </Id>
+        <Name>Void Orb</Name>
+        <Price> 150 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> true </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+	
+		<CraftableItem>
+        <Id> 12 </Id>
+        <Name>Case</Name>
+        <Price> 200 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> false </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+	
+	 
+	<CraftableItem>
+        <Id> 13 </Id>
+        <Name>Necklace</Name>
+        <Price> 120 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> true </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+ 
+	<CraftableItem>
+        <Id> 14 </Id>
+        <Name>Ornament</Name>
+        <Price> 200 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> true </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+ 
+
+	<CraftableItem>
+        <Id> 15 </Id>
+        <Name>Gold Spell</Name>
+        <Price> 100 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> false </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+
+	
+	<CraftableItem>
+        <Id> 16 </Id>
+        <Name>Ruin</Name>
+        <Price> 100 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> true </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+	
+
+
+	<CraftableItem>
+        <Id> 17 </Id>
+        <Name>Red Potion</Name>
+        <Price> 50 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> false </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+	
+	<CraftableItem>
+        <Id> 18 </Id>
+        <Name>Dark Potion</Name>
+        <Price> 250 </Price>
+		<ItemTexture>  </ItemTexture>
+		<IsPassiveItem> false </IsPassiveItem>
+		<Description> </Description>
+    </CraftableItem>
+ </CraftableItems>

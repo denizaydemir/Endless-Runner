@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InventoryData>
+  <Item>
+    <Id>1</Id>
+    <Amount>1</Amount>
+  </Item>
+  <Item>
+    <Id>2</Id>
+    <Amount>3</Amount>
+  </Item>
+  <Item>
+    <Id>3</Id>
+    <Amount>1</Amount>
+  </Item>
+  <Item>
+    <Id>5</Id>
+    <Amount>3</Amount>
+  </Item>
+</InventoryData>
